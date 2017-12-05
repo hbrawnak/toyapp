@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails application
 
 This is ToyApp
 by [Habibur Rahman](http://www.facebook.com/follow.hbrawnak).
